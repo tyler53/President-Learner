@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+- (IBAction)contact:(id)sender;
+- (IBAction)yearsQuestion:(id)sender;
 
 @end
